@@ -1,0 +1,5 @@
+br/com/prog3/aula17/resources/ClienteResource.class
+br/com/prog3/aula17/service/ClienteService.class
+br/com/prog3/aula17/domain/Cliente.class
+br/com/prog3/aula17/Aula17Application.class
+br/com/prog3/aula17/repository/ClienteRepository.class
